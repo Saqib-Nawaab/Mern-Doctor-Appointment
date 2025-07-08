@@ -8,7 +8,7 @@ A full-stack web application for booking and managing doctor appointments. It's 
 - **client/**: React frontend for patients/users
 - **admin/**: React frontend for admin panel
 
-[structre](https://res.cloudinary.com/djfem14lf/image/upload/v1751989953/Screenshot_2025-07-08_084122_hil7tj.png)
+![structre](https://res.cloudinary.com/djfem14lf/image/upload/v1751989953/Screenshot_2025-07-08_084122_hil7tj.png)
 
 ---
 

@@ -1,6 +1,8 @@
+![Preview](https://res.cloudinary.com/djfem14lf/image/upload/v1751989738/Screenshot_2025-07-08_084211_wlfa8r.png)
+
 # MERN Doctor Appointment Booking System
 
-A full-stack web application for booking and managing doctor appointments, built with the MERN stack (MongoDB, Express.js, React, Node.js). The project is organized into three main parts:
+A full-stack web application for booking and managing doctor appointments. It's built with the MERN stack (MongoDB, Express.js, React, Node.js). The full depth details are at this https://deepwiki.com/Saqib-Nawaab/Mern-Doctor-Appointment/ The project is organized into three main parts:
 
 - **server/**: Node.js/Express backend API with MongoDB
 - **client/**: React frontend for patients/users
